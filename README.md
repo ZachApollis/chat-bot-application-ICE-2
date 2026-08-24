@@ -147,4 +147,4 @@ Project Repository:
 
 GitHub Repository:
 
-[Add your public GitHub repository link here]
+https://github.com/ZachApollis/chat-bot-application-ICE-2
